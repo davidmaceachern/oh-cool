@@ -1,3 +1,3 @@
 # oh-cool 😎🆒🧊
  
-Stars repositories matching a query.
+Star repositories matching a query.
