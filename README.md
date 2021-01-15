@@ -1,3 +1,3 @@
-# oh-cool 😎🆒🧊
+# ohcool 😎🆒🧊
  
 Star repositories matching a query.
