@@ -1,5 +1,5 @@
 [package]
-name = "oh-cool"
+name = "ohcool"
 version = "0.1.0"
 authors = ["david.maceachern.tech@gmail.com"]
 edition = "2018"
